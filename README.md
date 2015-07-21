@@ -5,12 +5,16 @@ This repo is for the 'Intro to testing' AF academy session.
 ## Setup
 Clone the repo on your machine:
 
-  git clone git@github.com:appfolio/intro_to_testing.git
+```
+git clone git@github.com:appfolio/intro_to_testing.git
+```
 
 Make sure minitest and mocha are installed and if not install them:
 
-  gem install minitest
-  gem install mocha
+```
+gem install minitest
+gem install mocha
+```
 
 ## What to do
 There is a `Person` class with a few methods in `src/person.rb`. It is a simple class representing a person, with a few methods.
