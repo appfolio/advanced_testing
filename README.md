@@ -17,12 +17,11 @@ gem install mocha
 ```
 
 ## What to do
-There is a `Person` class with a few methods in `src/person.rb`. It is a simple class representing a person, with a few methods.
+There is a `Person` class with a few methods in the `person.rb` file. It is a simple class representing a person, with a few methods.
 
 Your job is to write tests for these methods. Some tests have already been written, and 5 still have to be written. Write those.
 
 To run the test, type this command from the root directory.
-
 ```
 ruby tests/person_test.rb
 ```
